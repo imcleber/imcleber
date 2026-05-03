@@ -62,6 +62,8 @@ Full-stack financial management application focused on personal expense tracking
 **API Hosting:** Vercel  
 **Features:** JWT authentication · Protected routes · File uploads · Cloudinary integration · Monthly reports · Financial insights  
 
+- 🔗 [Frontend](https://github.com/imcleber/finance)
+- 🔗 [Backend](https://github.com/imcleber/finance-api)
 - 🌐 Private production deployment (real usage)
 
 ---
