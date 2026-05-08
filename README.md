@@ -100,6 +100,11 @@ Currently building backend-focused projects and looking for internship or junior
 ## 📊 GitHub Stats
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imcleber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imcleber&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://winter-stats.vercel.app/api?username=imcleber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://winter-stats.vercel.app/api/top-langs/?username=imcleber&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
+
+<br>
+
+<img width="100%" src="https://ghchart.rshah.org/58a6ff/winterzinha" alt="winterzinha's Github chart" />
